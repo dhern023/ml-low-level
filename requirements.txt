@@ -2,3 +2,4 @@ wheel
 datetime
 numpy
 pandas
+pandas_flavor
